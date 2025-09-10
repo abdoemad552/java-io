@@ -1,4 +1,4 @@
-package io.ch1;
+package io.ch2;
 
 import java.io.IOException;
 

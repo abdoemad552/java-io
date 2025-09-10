@@ -1,4 +1,4 @@
-package io.ch1;
+package io.ch2;
 
 import javax.swing.*;
 import java.io.IOException;

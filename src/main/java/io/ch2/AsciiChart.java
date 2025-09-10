@@ -1,4 +1,4 @@
-package io.ch1;
+package io.ch2;
 
 public class AsciiChart {
   public static void main(String[] args) {
